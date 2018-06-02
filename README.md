@@ -134,4 +134,4 @@ http://xfnwyig7olypdq5r.onion/（美国国籍）
 
 ```
 
-未完，想看下一半请点击[下一半]（。https://20011004.github.io/o2.io）
+未完，想看下一半请点击[下一半](https://20011004.github.io/o2.io）

@@ -105,12 +105,6 @@
 47.http://hxnibog5m2ocjeef.onion/ deepweb ministries 
 49 
 48.http://saemf4erbrvhfddd.onion/ ccp 
-50 
- 
-51 
-by loser 2016 04 23 整理 
-52 
-（网址亲测可进） 
 53 
 市场上的药物 
 54 
@@ -134,4 +128,4 @@ http://xfnwyig7olypdq5r.onion/（美国国籍）
 
 ```
 
-未完，想看下一半请点击[下一半] (https://20011004.github.io/o2.io）
+未完，想看下一半请点击[下一半](https://20011004.github.io/o2.io）

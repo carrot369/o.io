@@ -1,7 +1,7 @@
 ## Deep Web Links
 # TIME:2018.6.3
 由于服务器问题未能全部列出，下一半请点击文末链接
-<>br说明:网址打不开原因
+<br>说明:网址打不开原因
 1.该网站已经倒了
 2.部分网站只有晚上才能打开
 3.网站改网址了
@@ -127,4 +127,4 @@ http://smoker32pk4qt3mx.onion/（大麻等）
 http://xfnwyig7olypdq5r.onion/（美国国籍）
 
 ```
-[下一半](https://20011004.github.io/o2.io）
+[下一半](https://20011004.github.io/o2.io)
